@@ -1,0 +1,4 @@
+flask==2.2.2
+ultralytics==8.0.37
+torch==2.0.1
+Pillow==9.2.0
